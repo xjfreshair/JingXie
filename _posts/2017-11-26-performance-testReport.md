@@ -47,7 +47,7 @@ yaf属于超轻量级的c级别裸框架，只集成了基本的视图和路由�
 | 监控工具           | Server-Agent-2.2.1                                        |
 
 ## 2.4网络拓扑图
-![](/images/0.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/0.png)
 # 3测试方法
 ## 3.1 通过标准
 
@@ -89,19 +89,19 @@ getRoleTemplateByOrgroot接口压力测试，30000线程，300秒内启动。找
       2. 根据TPS找出性能拐点。
 ### 3.3.1.2 结果图形说明
 
-![](/images/1.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/1.png)
 
  ** 事务数和线程关系 **
 
-![ ](/images/2.png)
+![ ](https://github.com/xjfreshair/JingXie/raw/master/images/2.png)
 
 ** TPS随时间变化 **
 
-![](/images/3.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/3.png)
 
 ** 响应时间随时间变化 **
 
-![](/images/4.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/4.png)
 
 ** Nginx告警日志 **
 
@@ -131,31 +131,31 @@ getRoleTemplateByOrgroot接口压力测试，30000线程，300秒内启动。找
 2. 服务器资源占用是否稳定。
 #### 3.3.2.2 结果图形说明
 
-![](/images/5.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/5.png)
 
 - 网络流量和线程数的关系
 
-![](/images/6.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/6.png)
 
 - TPS随时间变化
 
-![](/images/7.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/7.png)
 
 - 响应时间随时间变化
 
-![](/images/8.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/8.png)
 
 - 响应时间和请求百分比变化
 
-![](/images/9.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/9.png)
 
 - 聚合测试报告
 
 **PHP服务器资源监控**
-![](/images/10.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/10.png)
 
 **MySql服务器资源监控**
-![](/images/11.png)
+![](https://github.com/xjfreshair/JingXie/raw/master/images/11.png)
 
 **PHP慢查询日志**
 
